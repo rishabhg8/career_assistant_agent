@@ -1,9 +1,3 @@
----
-title: career_conversation
-app_file: app.py
-sdk: gradio
-sdk_version: 6.19.0
----
 # AI Portfolio Assistant
 
 **An intelligent chatbot that represents you on your personal website, powered by OpenAI's GPT-4o-mini.**
